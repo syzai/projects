@@ -45,4 +45,4 @@ if s != u :
 else :
    comparison = ""
       
-print("The strings '%s' and '%s' are %sidentical." % (s, u, comparison))
+print("The strings '%s' and '%s' are %sidentical." % (s, u, comparison)) 
