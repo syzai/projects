@@ -2,7 +2,7 @@
 Syed Zaidi
 Object Oriented Programming in Python (CS50)
 
-This program demonstrates comparisons of numbers and strings.
+This program demonstrates comparisons of numbers and strings in the Python programming language.
 '''
 
 from math import sqrt
