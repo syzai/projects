@@ -1,5 +1,9 @@
-##
-#  A program to compute shipping costs.
+'''
+Syed Zaidi
+Python Object Oriented Programming (CS50)
+'''
+
+#  This program computes the shipping costs for given countries.
 #
 
 # Obtain the user input.
@@ -10,7 +14,7 @@ state = input("Enter the state or province: ")
 shippingCost = 0.0
 
 if country == "USA" :
-   if state == "AK" or state == "HI" :  # See Section 3.7 for the or operator
+   if state == "AK" or state == "HI" :  
       shippingCost = 10.0
    else :
       shippingCost = 5.0
