@@ -1,5 +1,9 @@
-##
-#  This program prints a table of powers of x.
+'''
+Syed Zaidi
+Python Object Oriented Programming (CS50)
+'''
+
+#  This program prints a table of powers of n.
 #
   
 # Initialize constant variables for the max ranges.
