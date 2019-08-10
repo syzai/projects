@@ -1,5 +1,5 @@
 ##
-#  This program prints ten random numbers between 0 and 1.
+#  This program prints ten random numbers between 0 and 10.
 #
 
 from random import random
