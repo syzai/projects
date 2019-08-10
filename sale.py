@@ -1,5 +1,9 @@
-##
-#  Compute the discount for a given purchase.
+'''
+Syed Zaidi
+Python Object Oriented Programming (CS50)
+'''
+
+#  This program computes the discount for a given purchase.
 #
 
 # Obtain the original price.
