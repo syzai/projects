@@ -1,4 +1,8 @@
-##
+'''
+Syed Zaidi
+Python Object Oriented Programming (CS50)
+'''
+
 #  This program simulates tosses of a pair of dice.
 #
 
