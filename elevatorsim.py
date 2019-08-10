@@ -1,4 +1,8 @@
-##
+'''
+Syed Zaidi
+Python Object Oriented Programming (CS50)
+'''
+
 #  This program simulates an elevator panel that skips the 13th floor.
 #
 
