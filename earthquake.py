@@ -1,4 +1,8 @@
-##
+'''
+Syed Zaidi
+Python Object Oriented Programming (CS50)
+'''
+
 #  This program prints a description of an earthquake, given the Richter scale magnitude.
 #
 
