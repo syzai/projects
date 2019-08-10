@@ -1,4 +1,8 @@
-##
+'''
+Syed Zaidi
+Python Object Oriented Programming (CS50)
+'''
+
 #  This program prints the average of salary values that are terminated with 
 #  a sentinel.
 #
