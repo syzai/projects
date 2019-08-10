@@ -1,4 +1,8 @@
-##
+'''
+Syed Zaidi
+Python Object Oriented Programming (CS50)
+'''
+
 #  This program grades a multiple choice exam in which each question has four
 #  possible choices: a, b, c, or d.
 #
